@@ -47,7 +47,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE to check the interactive guide"
+                 "value":"Appuyez sur ESPACE pour ouvrir le guide"
                 }],
          "type":"tilelayer",
          "visible":true,
