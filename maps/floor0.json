@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/egs.school\/"
+                 "value":"https:\/\/pedagogie.egs.school\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
