@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoors.json#from-lobby"
+                 "value":"\/@\/egs\/school\/campus#from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoors.json#from-bde"
+                 "value":"\/@\/egs\/school\/campus#from-bde"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/elevator.json#from-interior"
+                 "value":"\/@\/egs\/school\/elevator#from-interior"
                 }],
          "type":"tilelayer",
          "visible":true,

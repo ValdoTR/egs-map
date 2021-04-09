@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor-2.json#from-elevator"
+                 "value":"\/@\/egs\/school\/esport#from-elevator"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor-1.json#from-elevator"
+                 "value":"\/@\/egs\/school\/working#from-elevator"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor0.json#from-elevator"
+                 "value":"\/@\/egs\/school\/campus#from-elevator"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor1.json#from-elevator"
+                 "value":"\/@\/egs\/school\/coworking#from-elevator"
                 }],
          "type":"tilelayer",
          "visible":true,

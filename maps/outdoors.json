@@ -65,7 +65,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor0.json#from-outdoors"
+                 "value":"\/@\/egs\/school\/campus#from-outdoors"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor0.json#from-beach"
+                 "value":"\/@\/egs\/school\/campus#from-beach"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -137,7 +137,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor1.json#from-rooftop"
+                 "value":"\/@\/egs\/school\/coworking#from-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -173,7 +173,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoors.json#from-garden"
+                 "value":"\/@\/egs\/school\/campus#from-garden"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outdoors.json#from-rooftop"
+                 "value":"\/@\/egs\/school\/campus#from-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,

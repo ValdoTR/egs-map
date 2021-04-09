@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/elevator.json#from-interior"
+                 "value":"\/@\/egs\/school\/elevator#from-interior"
                 }],
          "type":"tilelayer",
          "visible":true,
