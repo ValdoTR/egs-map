@@ -65,7 +65,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/egs\/school\/campus#from-outdoors"
+                 "value":"\/@\/egs\/school\/accueil#from-outdoors"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/egs\/school\/campus#from-beach"
+                 "value":"\/@\/egs\/school\/accueil#from-beach"
                 }],
          "type":"tilelayer",
          "visible":true,
