@@ -161,11 +161,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"speaker"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -189,11 +184,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"speaker"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
