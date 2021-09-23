@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/egs\/school\/campus#from-floor1"
+                 "value":"\/@\/egs\/school\/rooftop#from-floor1"
                 }],
          "type":"tilelayer",
          "visible":true,
