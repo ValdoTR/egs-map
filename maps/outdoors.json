@@ -331,17 +331,17 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"floor0.png"
+         "value":"outdoors.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/gparant\/egs-map-var\/blob\/master\/maps\/outdoorsr.json"
+         "value":"https:\/\/github.com\/gparant\/egs-map-var\/blob\/master\/maps\/outdoors.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Accueil"
+         "value":"Campus"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
