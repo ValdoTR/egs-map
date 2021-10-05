@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/egs\/school\/rooftop#from-garden"
+                 "value":"\/@\/egs\/school\/campus#from-garden"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -344,7 +344,7 @@
          "value":"Campus"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
